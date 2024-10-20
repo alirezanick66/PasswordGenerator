@@ -7,6 +7,7 @@ symbols = [ '!' , '@' , '#' , '$' , '%' , '^' , '&' , '*' , '(' , ')' , '-' , '_
 
 # تایتل های نمایش
 welcome_title = "hi , You can create strong password !"
+
 pass_count_title = "How many passwords? :  "
 numbers_count_title = "How Many  numbers?"
 symbole_count_title = "How Many symbols?"
